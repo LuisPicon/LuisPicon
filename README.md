@@ -16,8 +16,8 @@
 
 <div >
 
-<img src= "https://i.imgur.com/ULW3hMW.jpg" width="150">
-<img src= "https://i.imgur.com/EEjpBWd.jpg" width=300">
+<img src= "https://i.imgur.com/ULW3hMW.jpg" width="100">
+<img src= "https://i.imgur.com/EEjpBWd.jpg" width=200">
 <img src= "https://i.imgur.com/LqOq0Q4.jpg" width="300">
 </div>
 
