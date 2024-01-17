@@ -1,5 +1,5 @@
 ```js
- console.log("Luis Eduardo Rodriguez Picón" 👋)
+ console.log("Desarrollador de Software & Diseñador UI" 👋)
 ```
 
 - 🔭 Trabaje _[en](https://luispicon.online/#pagina-3)_
