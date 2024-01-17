@@ -20,6 +20,10 @@
  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript">
  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python">
  <img src="https://img.icons8.com/color/48/git.png" alt="Git">
- 
 </div>
+
+```js
+ 🥇El mayor orgullo de hombre, debería ser, el hambre que aguanto, antes de comerse el mundo🪖
+```
+
 
