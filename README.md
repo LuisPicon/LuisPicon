@@ -23,7 +23,7 @@
 </div>
 
 ```js
- 🥇El mayor orgullo de hombre, debería ser, el hambre que aguanto, antes de comerse el mundo🪖
+ 🥇El mayor orgullo, de hombre, debería ser el hambre que aguanto, antes de comerse el mundo🪖
 ```
 
 
