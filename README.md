@@ -23,7 +23,3 @@
  
 </div>
 
-####
-
-También puedes visitar mi _<a href="https://luispicon.online" target="_blank"> sitio web</a>_ y mi perfil de  _<a href="https://www.linkedin.com/in/luis-pic%C3%B3n-a63437240/" target="_blank">linkedin</a>_
-
