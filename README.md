@@ -1,16 +1,26 @@
-### Hi there 👋
+```js
+ console.log("Luis Eduardo Rodriguez Picón" 👋)
+```
 
-<!--
-**LuisPicon/LuisPicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabaje _[en](https://luispicon.online/#pagina-3)_
 
-Here are some ideas to get you started:
+- 🌱 Aprendiz del _[SENA](https://www.sena.edu.co/)_ en `Desarrollo de Software`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 La obsesión vence al talento por eso nunca paro de aprender..
+
+- ⚡Me gustan las música y el contenido de auto superación.
+
+- 😄 Apodos: _lucho_
+
+---
+
+<div >
+
+<img src= "https://i.imgur.com/ULW3hMW.jpg" width="150">
+<img src= "https://i.imgur.com/EEjpBWd.jpg" width=300">
+<img src= "https://i.imgur.com/LqOq0Q4.jpg" width="300">
+</div>
+
+####
+
+También puedes visitar mi _[sitio web](https://luispicon.online)_ y mi perfil de _[linkedin](https://www.linkedin.com/in/luis-pic%C3%B3n-a63437240/)_
