@@ -23,7 +23,7 @@
 </div>
 
 ```
- 🥇El mayor orgullo de un hombre, debería ser el hambre que aguanto, antes de comerse el mundo🪖
+ 🥇El mayor orgullo de un hombre debería ser el hambre que aguanta antes de comerse el mundo.
 ```
 
 
