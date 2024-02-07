@@ -20,6 +20,7 @@
  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript">
  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python">
  <img src="https://img.icons8.com/color/48/git.png" alt="Git">
+ <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma">
 </div>
 
 ```
